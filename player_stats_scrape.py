@@ -120,6 +120,3 @@ stats = pd.concat(fixture)
 stats.to_csv("player_stats.csv",index=False)
 
 
-# DENEME
-data=pd.read_csv("player_stats.csv")
-data.head()
