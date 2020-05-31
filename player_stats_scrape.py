@@ -1,10 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Tue May 26 08:43:52 2020
 
-@author: ulasugurluoglu
-"""
 
 import pandas as pd
 from scrapy.selector import Selector
