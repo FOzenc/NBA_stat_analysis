@@ -1,0 +1,1328 @@
+{
+    "2019/2020": [
+        {
+            "season": "2019/2020",
+            "Takım": "DAL",
+            "n_matches": 67,
+            "adjusted_w": 19.201678781141002,
+            "true_w": 40,
+            "pro_pred": 21
+        },
+        {
+            "season": "2019/2020",
+            "Takım": "PHO",
+            "n_matches": 65,
+            "adjusted_w": 20.47974043837772,
+            "true_w": 26,
+            "pro_pred": 35
+        },
+        {
+            "season": "2019/2020",
+            "Takım": "ATL",
+            "n_matches": 67,
+            "adjusted_w": 20.699336810725182,
+            "true_w": 20,
+            "pro_pred": 33
+        },
+        {
+            "season": "2019/2020",
+            "Takım": "CHI",
+            "n_matches": 65,
+            "adjusted_w": 22.066567938025255,
+            "true_w": 21,
+            "pro_pred": 38
+        },
+        {
+            "season": "2019/2020",
+            "Takım": "WAS",
+            "n_matches": 64,
+            "adjusted_w": 23.630142030053413,
+            "true_w": 25,
+            "pro_pred": 46
+        },
+        {
+            "season": "2019/2020",
+            "Takım": "NYK",
+            "n_matches": 66,
+            "adjusted_w": 25.33341717502514,
+            "true_w": 22,
+            "pro_pred": 39
+        },
+        {
+            "season": "2019/2020",
+            "Takım": "MIN",
+            "n_matches": 64,
+            "adjusted_w": 25.82615062488251,
+            "true_w": 19,
+            "pro_pred": 28
+        },
+        {
+            "season": "2019/2020",
+            "Takım": "CLE",
+            "n_matches": 65,
+            "adjusted_w": 26.385412202975534,
+            "true_w": 20,
+            "pro_pred": 24
+        },
+        {
+            "season": "2019/2020",
+            "Takım": "SAC",
+            "n_matches": 64,
+            "adjusted_w": 28.195577289819266,
+            "true_w": 29,
+            "pro_pred": 27
+        },
+        {
+            "season": "2019/2020",
+            "Takım": "BRO",
+            "n_matches": 64,
+            "adjusted_w": 29.412482507662634,
+            "true_w": 31,
+            "pro_pred": 43
+        },
+        {
+            "season": "2019/2020",
+            "Takım": "CHA",
+            "n_matches": 65,
+            "adjusted_w": 29.775214372501075,
+            "true_w": 23,
+            "pro_pred": 40
+        },
+        {
+            "season": "2019/2020",
+            "Takım": "GSW",
+            "n_matches": 65,
+            "adjusted_w": 30.77919202102328,
+            "true_w": 15,
+            "pro_pred": 51
+        },
+        {
+            "season": "2019/2020",
+            "Takım": "SAS",
+            "n_matches": 63,
+            "adjusted_w": 31.022313262869993,
+            "true_w": 25,
+            "pro_pred": 42
+        },
+        {
+            "season": "2019/2020",
+            "Takım": "ORL",
+            "n_matches": 65,
+            "adjusted_w": 31.08169140987323,
+            "true_w": 29,
+            "pro_pred": 58
+        },
+        {
+            "season": "2019/2020",
+            "Takım": "MIA",
+            "n_matches": 65,
+            "adjusted_w": 31.312362921724716,
+            "true_w": 40,
+            "pro_pred": 40
+        },
+        {
+            "season": "2019/2020",
+            "Takım": "DET",
+            "n_matches": 66,
+            "adjusted_w": 31.616903991812997,
+            "true_w": 20,
+            "pro_pred": 37
+        },
+        {
+            "season": "2019/2020",
+            "Takım": "BOS",
+            "n_matches": 64,
+            "adjusted_w": 32.15368704609248,
+            "true_w": 43,
+            "pro_pred": 42
+        },
+        {
+            "season": "2019/2020",
+            "Takım": "LAL",
+            "n_matches": 63,
+            "adjusted_w": 33.39150388413053,
+            "true_w": 49,
+            "pro_pred": 37
+        },
+        {
+            "season": "2019/2020",
+            "Takım": "POR",
+            "n_matches": 66,
+            "adjusted_w": 33.687086550997115,
+            "true_w": 29,
+            "pro_pred": 31
+        },
+        {
+            "season": "2019/2020",
+            "Takım": "NOP",
+            "n_matches": 64,
+            "adjusted_w": 38.27329703241558,
+            "true_w": 28,
+            "pro_pred": 36
+        },
+        {
+            "season": "2019/2020",
+            "Takım": "PHI",
+            "n_matches": 65,
+            "adjusted_w": 38.50625255398337,
+            "true_w": 39,
+            "pro_pred": 47
+        },
+        {
+            "season": "2019/2020",
+            "Takım": "MEM",
+            "n_matches": 65,
+            "adjusted_w": 38.8179643982137,
+            "true_w": 32,
+            "pro_pred": 46
+        },
+        {
+            "season": "2019/2020",
+            "Takım": "UTA",
+            "n_matches": 64,
+            "adjusted_w": 39.32842472819466,
+            "true_w": 41,
+            "pro_pred": 43
+        },
+        {
+            "season": "2019/2020",
+            "Takım": "OKC",
+            "n_matches": 64,
+            "adjusted_w": 39.481668538652485,
+            "true_w": 40,
+            "pro_pred": 50
+        },
+        {
+            "season": "2019/2020",
+            "Takım": "DEN",
+            "n_matches": 65,
+            "adjusted_w": 40.963482410351226,
+            "true_w": 43,
+            "pro_pred": 40
+        },
+        {
+            "season": "2019/2020",
+            "Takım": "HOU",
+            "n_matches": 64,
+            "adjusted_w": 41.270405884472225,
+            "true_w": 40,
+            "pro_pred": 57
+        },
+        {
+            "season": "2019/2020",
+            "Takım": "IND",
+            "n_matches": 65,
+            "adjusted_w": 41.77298964859614,
+            "true_w": 39,
+            "pro_pred": 51
+        },
+        {
+            "season": "2019/2020",
+            "Takım": "LAC",
+            "n_matches": 64,
+            "adjusted_w": 43.759674007762335,
+            "true_w": 44,
+            "pro_pred": 48
+        },
+        {
+            "season": "2019/2020",
+            "Takım": "TOR",
+            "n_matches": 64,
+            "adjusted_w": 46.561887324326904,
+            "true_w": 46,
+            "pro_pred": 44
+        },
+        {
+            "season": "2019/2020",
+            "Takım": "MIL",
+            "n_matches": 65,
+            "adjusted_w": 53.44294517997494,
+            "true_w": 53,
+            "pro_pred": 54
+        },
+        {
+            "RMSE_pro": 14.046351839534706,
+            "RMSE": 9.938136022649342
+        }
+    ],
+    "2018/2019": [
+        {
+            "season": "2018/2019",
+            "Takım": "ATL",
+            "n_matches": 82,
+            "adjusted_w": 15.401934437470143,
+            "true_w": 29
+        },
+        {
+            "season": "2018/2019",
+            "Takım": "DAL",
+            "n_matches": 82,
+            "adjusted_w": 25.0479340775608,
+            "true_w": 33
+        },
+        {
+            "season": "2018/2019",
+            "Takım": "PHO",
+            "n_matches": 82,
+            "adjusted_w": 25.875321564168544,
+            "true_w": 19
+        },
+        {
+            "season": "2018/2019",
+            "Takım": "CLE",
+            "n_matches": 82,
+            "adjusted_w": 26.702553891022372,
+            "true_w": 19
+        },
+        {
+            "season": "2018/2019",
+            "Takım": "SAC",
+            "n_matches": 82,
+            "adjusted_w": 26.956214822538048,
+            "true_w": 39
+        },
+        {
+            "season": "2018/2019",
+            "Takım": "ORL",
+            "n_matches": 82,
+            "adjusted_w": 27.325985012508433,
+            "true_w": 42
+        },
+        {
+            "season": "2018/2019",
+            "Takım": "MEM",
+            "n_matches": 82,
+            "adjusted_w": 27.42425306283623,
+            "true_w": 33
+        },
+        {
+            "season": "2018/2019",
+            "Takım": "BRO",
+            "n_matches": 82,
+            "adjusted_w": 28.206660802580522,
+            "true_w": 42
+        },
+        {
+            "season": "2018/2019",
+            "Takım": "CHI",
+            "n_matches": 82,
+            "adjusted_w": 28.733250310160862,
+            "true_w": 22
+        },
+        {
+            "season": "2018/2019",
+            "Takım": "NYK",
+            "n_matches": 82,
+            "adjusted_w": 29.13085977366553,
+            "true_w": 17
+        },
+        {
+            "season": "2018/2019",
+            "Takım": "MIA",
+            "n_matches": 82,
+            "adjusted_w": 30.76990217606559,
+            "true_w": 39
+        },
+        {
+            "season": "2018/2019",
+            "Takım": "LAC",
+            "n_matches": 82,
+            "adjusted_w": 38.66753977364031,
+            "true_w": 48
+        },
+        {
+            "season": "2018/2019",
+            "Takım": "TOR",
+            "n_matches": 82,
+            "adjusted_w": 40.53433256902272,
+            "true_w": 58
+        },
+        {
+            "season": "2018/2019",
+            "Takım": "CHA",
+            "n_matches": 82,
+            "adjusted_w": 43.029857514694854,
+            "true_w": 39
+        },
+        {
+            "season": "2018/2019",
+            "Takım": "MIL",
+            "n_matches": 82,
+            "adjusted_w": 47.40634356831697,
+            "true_w": 60
+        },
+        {
+            "season": "2018/2019",
+            "Takım": "POR",
+            "n_matches": 82,
+            "adjusted_w": 47.439786546349566,
+            "true_w": 53
+        },
+        {
+            "season": "2018/2019",
+            "Takım": "DET",
+            "n_matches": 82,
+            "adjusted_w": 47.851454912269055,
+            "true_w": 41
+        },
+        {
+            "season": "2018/2019",
+            "Takım": "NOP",
+            "n_matches": 82,
+            "adjusted_w": 50.18516681567938,
+            "true_w": 33
+        },
+        {
+            "season": "2018/2019",
+            "Takım": "MIN",
+            "n_matches": 82,
+            "adjusted_w": 50.255681241031965,
+            "true_w": 36
+        },
+        {
+            "season": "2018/2019",
+            "Takım": "SAS",
+            "n_matches": 82,
+            "adjusted_w": 50.5765282695413,
+            "true_w": 48
+        },
+        {
+            "season": "2018/2019",
+            "Takım": "OKC",
+            "n_matches": 82,
+            "adjusted_w": 51.10445240278352,
+            "true_w": 49
+        },
+        {
+            "season": "2018/2019",
+            "Takım": "WAS",
+            "n_matches": 82,
+            "adjusted_w": 51.28709280191746,
+            "true_w": 32
+        },
+        {
+            "season": "2018/2019",
+            "Takım": "IND",
+            "n_matches": 82,
+            "adjusted_w": 51.34846551401345,
+            "true_w": 48
+        },
+        {
+            "season": "2018/2019",
+            "Takım": "UTA",
+            "n_matches": 82,
+            "adjusted_w": 51.436794649640106,
+            "true_w": 50
+        },
+        {
+            "season": "2018/2019",
+            "Takım": "DEN",
+            "n_matches": 82,
+            "adjusted_w": 51.47975906690769,
+            "true_w": 54
+        },
+        {
+            "season": "2018/2019",
+            "Takım": "LAL",
+            "n_matches": 82,
+            "adjusted_w": 51.90379236950431,
+            "true_w": 37
+        },
+        {
+            "season": "2018/2019",
+            "Takım": "BOS",
+            "n_matches": 82,
+            "adjusted_w": 53.43383953701746,
+            "true_w": 49
+        },
+        {
+            "season": "2018/2019",
+            "Takım": "GSW",
+            "n_matches": 82,
+            "adjusted_w": 53.78343995237218,
+            "true_w": 57
+        },
+        {
+            "season": "2018/2019",
+            "Takım": "PHI",
+            "n_matches": 82,
+            "adjusted_w": 60.26126514791997,
+            "true_w": 51
+        },
+        {
+            "season": "2018/2019",
+            "Takım": "HOU",
+            "n_matches": 82,
+            "adjusted_w": 64.80722076639171,
+            "true_w": 53
+        },
+        {
+            "RMSE": 9.938136022649342
+        }
+    ],
+    "2017/2018": [
+        {
+            "season": "2017/2018",
+            "Takım": "BRO",
+            "n_matches": 82,
+            "adjusted_w": 21.830039686033093,
+            "true_w": 28
+        },
+        {
+            "season": "2017/2018",
+            "Takım": "PHO",
+            "n_matches": 82,
+            "adjusted_w": 23.57509074295911,
+            "true_w": 21
+        },
+        {
+            "season": "2017/2018",
+            "Takım": "ORL",
+            "n_matches": 82,
+            "adjusted_w": 25.746699883429823,
+            "true_w": 25
+        },
+        {
+            "season": "2017/2018",
+            "Takım": "DAL",
+            "n_matches": 82,
+            "adjusted_w": 30.33219102727005,
+            "true_w": 24
+        },
+        {
+            "season": "2017/2018",
+            "Takım": "NYK",
+            "n_matches": 82,
+            "adjusted_w": 31.75084945721216,
+            "true_w": 29
+        },
+        {
+            "season": "2017/2018",
+            "Takım": "MIL",
+            "n_matches": 82,
+            "adjusted_w": 32.606370414258066,
+            "true_w": 44
+        },
+        {
+            "season": "2017/2018",
+            "Takım": "ATL",
+            "n_matches": 82,
+            "adjusted_w": 33.04262428682763,
+            "true_w": 24
+        },
+        {
+            "season": "2017/2018",
+            "Takım": "LAL",
+            "n_matches": 82,
+            "adjusted_w": 34.52723455783985,
+            "true_w": 35
+        },
+        {
+            "season": "2017/2018",
+            "Takım": "MIN",
+            "n_matches": 82,
+            "adjusted_w": 35.483624238492226,
+            "true_w": 47
+        },
+        {
+            "season": "2017/2018",
+            "Takım": "POR",
+            "n_matches": 82,
+            "adjusted_w": 38.29275652859071,
+            "true_w": 49
+        },
+        {
+            "season": "2017/2018",
+            "Takım": "MEM",
+            "n_matches": 82,
+            "adjusted_w": 39.141749903388074,
+            "true_w": 22
+        },
+        {
+            "season": "2017/2018",
+            "Takım": "IND",
+            "n_matches": 82,
+            "adjusted_w": 39.4713386298303,
+            "true_w": 48
+        },
+        {
+            "season": "2017/2018",
+            "Takım": "OKC",
+            "n_matches": 82,
+            "adjusted_w": 39.651615080337955,
+            "true_w": 48
+        },
+        {
+            "season": "2017/2018",
+            "Takım": "CHA",
+            "n_matches": 82,
+            "adjusted_w": 40.048850011846426,
+            "true_w": 36
+        },
+        {
+            "season": "2017/2018",
+            "Takım": "NOP",
+            "n_matches": 82,
+            "adjusted_w": 40.15305656330894,
+            "true_w": 48
+        },
+        {
+            "season": "2017/2018",
+            "Takım": "CHI",
+            "n_matches": 82,
+            "adjusted_w": 40.397168011392736,
+            "true_w": 27
+        },
+        {
+            "season": "2017/2018",
+            "Takım": "SAC",
+            "n_matches": 82,
+            "adjusted_w": 40.51610052539301,
+            "true_w": 27
+        },
+        {
+            "season": "2017/2018",
+            "Takım": "PHI",
+            "n_matches": 82,
+            "adjusted_w": 42.29267979074225,
+            "true_w": 52
+        },
+        {
+            "season": "2017/2018",
+            "Takım": "MIA",
+            "n_matches": 82,
+            "adjusted_w": 43.10648988289415,
+            "true_w": 44
+        },
+        {
+            "season": "2017/2018",
+            "Takım": "TOR",
+            "n_matches": 82,
+            "adjusted_w": 43.27771836009185,
+            "true_w": 59
+        },
+        {
+            "season": "2017/2018",
+            "Takım": "UTA",
+            "n_matches": 82,
+            "adjusted_w": 46.61337425373973,
+            "true_w": 48
+        },
+        {
+            "season": "2017/2018",
+            "Takım": "DEN",
+            "n_matches": 82,
+            "adjusted_w": 47.456529373338284,
+            "true_w": 46
+        },
+        {
+            "season": "2017/2018",
+            "Takım": "DET",
+            "n_matches": 82,
+            "adjusted_w": 47.86508404974818,
+            "true_w": 39
+        },
+        {
+            "season": "2017/2018",
+            "Takım": "WAS",
+            "n_matches": 82,
+            "adjusted_w": 48.900864512569356,
+            "true_w": 43
+        },
+        {
+            "season": "2017/2018",
+            "Takım": "BOS",
+            "n_matches": 82,
+            "adjusted_w": 48.912902197680076,
+            "true_w": 55
+        },
+        {
+            "season": "2017/2018",
+            "Takım": "LAC",
+            "n_matches": 82,
+            "adjusted_w": 49.71490636389243,
+            "true_w": 42
+        },
+        {
+            "season": "2017/2018",
+            "Takım": "SAS",
+            "n_matches": 82,
+            "adjusted_w": 50.66637161841573,
+            "true_w": 47
+        },
+        {
+            "season": "2017/2018",
+            "Takım": "CLE",
+            "n_matches": 82,
+            "adjusted_w": 57.991389932505065,
+            "true_w": 50
+        },
+        {
+            "season": "2017/2018",
+            "Takım": "HOU",
+            "n_matches": 82,
+            "adjusted_w": 60.67229278753991,
+            "true_w": 65
+        },
+        {
+            "season": "2017/2018",
+            "Takım": "GSW",
+            "n_matches": 82,
+            "adjusted_w": 68.40978578607631,
+            "true_w": 58
+        },
+        {
+            "RMSE": 9.938136022649342
+        }
+    ],
+    "2016/2017": [
+        {
+            "season": "2016/2017",
+            "Takım": "PHI",
+            "n_matches": 82,
+            "adjusted_w": 11.353353830924052,
+            "true_w": 27
+        },
+        {
+            "season": "2016/2017",
+            "Takım": "LAL",
+            "n_matches": 82,
+            "adjusted_w": 15.51853673405542,
+            "true_w": 26
+        },
+        {
+            "season": "2016/2017",
+            "Takım": "PHO",
+            "n_matches": 82,
+            "adjusted_w": 23.76170949796218,
+            "true_w": 24
+        },
+        {
+            "season": "2016/2017",
+            "Takım": "DEN",
+            "n_matches": 82,
+            "adjusted_w": 29.21374018518667,
+            "true_w": 40
+        },
+        {
+            "season": "2016/2017",
+            "Takım": "NYK",
+            "n_matches": 82,
+            "adjusted_w": 31.881338139564935,
+            "true_w": 31
+        },
+        {
+            "season": "2016/2017",
+            "Takım": "MIL",
+            "n_matches": 82,
+            "adjusted_w": 32.42815765130132,
+            "true_w": 42
+        },
+        {
+            "season": "2016/2017",
+            "Takım": "NOP",
+            "n_matches": 82,
+            "adjusted_w": 32.59119216365161,
+            "true_w": 34
+        },
+        {
+            "season": "2016/2017",
+            "Takım": "MIN",
+            "n_matches": 82,
+            "adjusted_w": 32.754889598700395,
+            "true_w": 31
+        },
+        {
+            "season": "2016/2017",
+            "Takım": "SAC",
+            "n_matches": 82,
+            "adjusted_w": 33.01554361302951,
+            "true_w": 32
+        },
+        {
+            "season": "2016/2017",
+            "Takım": "HOU",
+            "n_matches": 82,
+            "adjusted_w": 37.82838061736643,
+            "true_w": 55
+        },
+        {
+            "season": "2016/2017",
+            "Takım": "MEM",
+            "n_matches": 82,
+            "adjusted_w": 38.61250542643569,
+            "true_w": 43
+        },
+        {
+            "season": "2016/2017",
+            "Takım": "WAS",
+            "n_matches": 81,
+            "adjusted_w": 41.94376571347009,
+            "true_w": 48
+        },
+        {
+            "season": "2016/2017",
+            "Takım": "BRO",
+            "n_matches": 81,
+            "adjusted_w": 42.12866074704101,
+            "true_w": 21
+        },
+        {
+            "season": "2016/2017",
+            "Takım": "ORL",
+            "n_matches": 81,
+            "adjusted_w": 43.28467843417564,
+            "true_w": 29
+        },
+        {
+            "season": "2016/2017",
+            "Takım": "DET",
+            "n_matches": 82,
+            "adjusted_w": 45.159565547685084,
+            "true_w": 37
+        },
+        {
+            "season": "2016/2017",
+            "Takım": "POR",
+            "n_matches": 82,
+            "adjusted_w": 45.267075977878,
+            "true_w": 41
+        },
+        {
+            "season": "2016/2017",
+            "Takım": "IND",
+            "n_matches": 82,
+            "adjusted_w": 45.30754932959878,
+            "true_w": 42
+        },
+        {
+            "season": "2016/2017",
+            "Takım": "UTA",
+            "n_matches": 82,
+            "adjusted_w": 46.01866622130318,
+            "true_w": 51
+        },
+        {
+            "season": "2016/2017",
+            "Takım": "ATL",
+            "n_matches": 82,
+            "adjusted_w": 47.888039830971586,
+            "true_w": 43
+        },
+        {
+            "season": "2016/2017",
+            "Takım": "DAL",
+            "n_matches": 82,
+            "adjusted_w": 48.375716374488356,
+            "true_w": 33
+        },
+        {
+            "season": "2016/2017",
+            "Takım": "BOS",
+            "n_matches": 82,
+            "adjusted_w": 48.641527262907445,
+            "true_w": 53
+        },
+        {
+            "season": "2016/2017",
+            "Takım": "MIA",
+            "n_matches": 82,
+            "adjusted_w": 48.983605248481126,
+            "true_w": 41
+        },
+        {
+            "season": "2016/2017",
+            "Takım": "CHI",
+            "n_matches": 81,
+            "adjusted_w": 51.59526119086639,
+            "true_w": 40
+        },
+        {
+            "season": "2016/2017",
+            "Takım": "TOR",
+            "n_matches": 82,
+            "adjusted_w": 51.8634592177442,
+            "true_w": 51
+        },
+        {
+            "season": "2016/2017",
+            "Takım": "CHA",
+            "n_matches": 82,
+            "adjusted_w": 54.22539756898562,
+            "true_w": 36
+        },
+        {
+            "season": "2016/2017",
+            "Takım": "SAS",
+            "n_matches": 82,
+            "adjusted_w": 58.328921869526205,
+            "true_w": 61
+        },
+        {
+            "season": "2016/2017",
+            "Takım": "LAC",
+            "n_matches": 82,
+            "adjusted_w": 59.405271457088475,
+            "true_w": 51
+        },
+        {
+            "season": "2016/2017",
+            "Takım": "CLE",
+            "n_matches": 82,
+            "adjusted_w": 59.74283828628442,
+            "true_w": 51
+        },
+        {
+            "season": "2016/2017",
+            "Takım": "OKC",
+            "n_matches": 82,
+            "adjusted_w": 62.44889834100481,
+            "true_w": 47
+        },
+        {
+            "season": "2016/2017",
+            "Takım": "GSW",
+            "n_matches": 82,
+            "adjusted_w": 68.69050724365444,
+            "true_w": 67
+        },
+        {
+            "RMSE": 9.938136022649342
+        }
+    ],
+    "2015/2016": [
+        {
+            "season": "2015/2016",
+            "Takım": "MIN",
+            "n_matches": 82,
+            "adjusted_w": 15.77191495216324,
+            "true_w": 29
+        },
+        {
+            "season": "2015/2016",
+            "Takım": "PHI",
+            "n_matches": 81,
+            "adjusted_w": 17.8312113787253,
+            "true_w": 10
+        },
+        {
+            "season": "2015/2016",
+            "Takım": "LAL",
+            "n_matches": 82,
+            "adjusted_w": 18.686156596134076,
+            "true_w": 17
+        },
+        {
+            "season": "2015/2016",
+            "Takım": "NYK",
+            "n_matches": 82,
+            "adjusted_w": 21.708052696259777,
+            "true_w": 32
+        },
+        {
+            "season": "2015/2016",
+            "Takım": "ORL",
+            "n_matches": 81,
+            "adjusted_w": 22.94703662024807,
+            "true_w": 35
+        },
+        {
+            "season": "2015/2016",
+            "Takım": "BRO",
+            "n_matches": 82,
+            "adjusted_w": 26.620508694654763,
+            "true_w": 21
+        },
+        {
+            "season": "2015/2016",
+            "Takım": "MIA",
+            "n_matches": 80,
+            "adjusted_w": 28.920959985895234,
+            "true_w": 47
+        },
+        {
+            "season": "2015/2016",
+            "Takım": "DEN",
+            "n_matches": 79,
+            "adjusted_w": 29.625602133953,
+            "true_w": 33
+        },
+        {
+            "season": "2015/2016",
+            "Takım": "UTA",
+            "n_matches": 79,
+            "adjusted_w": 30.84630230243891,
+            "true_w": 40
+        },
+        {
+            "season": "2015/2016",
+            "Takım": "CHA",
+            "n_matches": 82,
+            "adjusted_w": 33.23049506771428,
+            "true_w": 48
+        },
+        {
+            "season": "2015/2016",
+            "Takım": "SAC",
+            "n_matches": 80,
+            "adjusted_w": 33.440215000911806,
+            "true_w": 32
+        },
+        {
+            "season": "2015/2016",
+            "Takım": "DET",
+            "n_matches": 80,
+            "adjusted_w": 33.51158751467008,
+            "true_w": 44
+        },
+        {
+            "season": "2015/2016",
+            "Takım": "POR",
+            "n_matches": 81,
+            "adjusted_w": 33.546791667408485,
+            "true_w": 44
+        },
+        {
+            "season": "2015/2016",
+            "Takım": "MIL",
+            "n_matches": 81,
+            "adjusted_w": 33.7746447729527,
+            "true_w": 34
+        },
+        {
+            "season": "2015/2016",
+            "Takım": "PHO",
+            "n_matches": 82,
+            "adjusted_w": 34.985652018471214,
+            "true_w": 23
+        },
+        {
+            "season": "2015/2016",
+            "Takım": "BOS",
+            "n_matches": 80,
+            "adjusted_w": 35.433182227088615,
+            "true_w": 46
+        },
+        {
+            "season": "2015/2016",
+            "Takım": "NOP",
+            "n_matches": 78,
+            "adjusted_w": 41.389461323717796,
+            "true_w": 28
+        },
+        {
+            "season": "2015/2016",
+            "Takım": "IND",
+            "n_matches": 78,
+            "adjusted_w": 45.09817951372365,
+            "true_w": 43
+        },
+        {
+            "season": "2015/2016",
+            "Takım": "TOR",
+            "n_matches": 80,
+            "adjusted_w": 45.73092597033853,
+            "true_w": 54
+        },
+        {
+            "season": "2015/2016",
+            "Takım": "HOU",
+            "n_matches": 82,
+            "adjusted_w": 46.76496380647563,
+            "true_w": 41
+        },
+        {
+            "season": "2015/2016",
+            "Takım": "WAS",
+            "n_matches": 80,
+            "adjusted_w": 47.25734060939272,
+            "true_w": 40
+        },
+        {
+            "season": "2015/2016",
+            "Takım": "CHI",
+            "n_matches": 80,
+            "adjusted_w": 49.46698232400055,
+            "true_w": 40
+        },
+        {
+            "season": "2015/2016",
+            "Takım": "DAL",
+            "n_matches": 81,
+            "adjusted_w": 50.55234960437299,
+            "true_w": 41
+        },
+        {
+            "season": "2015/2016",
+            "Takım": "MEM",
+            "n_matches": 82,
+            "adjusted_w": 51.131066854151115,
+            "true_w": 42
+        },
+        {
+            "season": "2015/2016",
+            "Takım": "OKC",
+            "n_matches": 81,
+            "adjusted_w": 52.447023835681485,
+            "true_w": 53
+        },
+        {
+            "season": "2015/2016",
+            "Takım": "SAS",
+            "n_matches": 82,
+            "adjusted_w": 54.51449822350074,
+            "true_w": 67
+        },
+        {
+            "season": "2015/2016",
+            "Takım": "CLE",
+            "n_matches": 81,
+            "adjusted_w": 57.779239127072735,
+            "true_w": 56
+        },
+        {
+            "season": "2015/2016",
+            "Takım": "ATL",
+            "n_matches": 80,
+            "adjusted_w": 57.991314444296044,
+            "true_w": 46
+        },
+        {
+            "season": "2015/2016",
+            "Takım": "LAC",
+            "n_matches": 81,
+            "adjusted_w": 64.46012814210285,
+            "true_w": 53
+        },
+        {
+            "season": "2015/2016",
+            "Takım": "GSW",
+            "n_matches": 80,
+            "adjusted_w": 66.37804637222236,
+            "true_w": 71
+        },
+        {
+            "RMSE": 9.938136022649342
+        }
+    ],
+    "2014/2015": [
+        {
+            "season": "2014/2015",
+            "Takım": "MIL",
+            "n_matches": 82,
+            "adjusted_w": 14.810569209506088,
+            "true_w": 41
+        },
+        {
+            "season": "2014/2015",
+            "Takım": "UTA",
+            "n_matches": 80,
+            "adjusted_w": 16.13470719569347,
+            "true_w": 38
+        },
+        {
+            "season": "2014/2015",
+            "Takım": "PHI",
+            "n_matches": 81,
+            "adjusted_w": 18.254085112201327,
+            "true_w": 17
+        },
+        {
+            "season": "2014/2015",
+            "Takım": "BRO",
+            "n_matches": 82,
+            "adjusted_w": 19.403954342639512,
+            "true_w": 38
+        },
+        {
+            "season": "2014/2015",
+            "Takım": "DEN",
+            "n_matches": 81,
+            "adjusted_w": 24.468701833256493,
+            "true_w": 30
+        },
+        {
+            "season": "2014/2015",
+            "Takım": "BOS",
+            "n_matches": 81,
+            "adjusted_w": 25.795933533239026,
+            "true_w": 40
+        },
+        {
+            "season": "2014/2015",
+            "Takım": "SAC",
+            "n_matches": 82,
+            "adjusted_w": 29.25704865594976,
+            "true_w": 29
+        },
+        {
+            "season": "2014/2015",
+            "Takım": "ORL",
+            "n_matches": 82,
+            "adjusted_w": 30.118306677932157,
+            "true_w": 25
+        },
+        {
+            "season": "2014/2015",
+            "Takım": "NYK",
+            "n_matches": 81,
+            "adjusted_w": 33.049892381357175,
+            "true_w": 17
+        },
+        {
+            "season": "2014/2015",
+            "Takım": "LAL",
+            "n_matches": 81,
+            "adjusted_w": 34.690007746201616,
+            "true_w": 22
+        },
+        {
+            "season": "2014/2015",
+            "Takım": "DET",
+            "n_matches": 81,
+            "adjusted_w": 35.93360620947155,
+            "true_w": 31
+        },
+        {
+            "season": "2014/2015",
+            "Takım": "NOP",
+            "n_matches": 82,
+            "adjusted_w": 36.5900328466735,
+            "true_w": 45
+        },
+        {
+            "season": "2014/2015",
+            "Takım": "CHI",
+            "n_matches": 82,
+            "adjusted_w": 37.94483891923091,
+            "true_w": 50
+        },
+        {
+            "season": "2014/2015",
+            "Takım": "MEM",
+            "n_matches": 78,
+            "adjusted_w": 38.017355691546555,
+            "true_w": 54
+        },
+        {
+            "season": "2014/2015",
+            "Takım": "CHA",
+            "n_matches": 81,
+            "adjusted_w": 41.3346611558447,
+            "true_w": 32
+        },
+        {
+            "season": "2014/2015",
+            "Takım": "CLE",
+            "n_matches": 80,
+            "adjusted_w": 43.78831919836497,
+            "true_w": 52
+        },
+        {
+            "season": "2014/2015",
+            "Takım": "ATL",
+            "n_matches": 79,
+            "adjusted_w": 44.46193083787329,
+            "true_w": 59
+        },
+        {
+            "season": "2014/2015",
+            "Takım": "PHO",
+            "n_matches": 81,
+            "adjusted_w": 45.85032479808869,
+            "true_w": 39
+        },
+        {
+            "season": "2014/2015",
+            "Takım": "TOR",
+            "n_matches": 81,
+            "adjusted_w": 45.88970285893535,
+            "true_w": 48
+        },
+        {
+            "season": "2014/2015",
+            "Takım": "WAS",
+            "n_matches": 81,
+            "adjusted_w": 46.36386491381301,
+            "true_w": 45
+        },
+        {
+            "season": "2014/2015",
+            "Takım": "DAL",
+            "n_matches": 82,
+            "adjusted_w": 47.02932836541411,
+            "true_w": 50
+        },
+        {
+            "season": "2014/2015",
+            "Takım": "MIA",
+            "n_matches": 81,
+            "adjusted_w": 47.10368062905469,
+            "true_w": 36
+        },
+        {
+            "season": "2014/2015",
+            "Takım": "POR",
+            "n_matches": 82,
+            "adjusted_w": 49.83060978523569,
+            "true_w": 51
+        },
+        {
+            "season": "2014/2015",
+            "Takım": "HOU",
+            "n_matches": 82,
+            "adjusted_w": 51.178442877533364,
+            "true_w": 56
+        },
+        {
+            "season": "2014/2015",
+            "Takım": "IND",
+            "n_matches": 80,
+            "adjusted_w": 52.46437506084682,
+            "true_w": 38
+        },
+        {
+            "season": "2014/2015",
+            "Takım": "OKC",
+            "n_matches": 80,
+            "adjusted_w": 53.4143596867359,
+            "true_w": 42
+        },
+        {
+            "season": "2014/2015",
+            "Takım": "MIN",
+            "n_matches": 81,
+            "adjusted_w": 53.84542289381553,
+            "true_w": 16
+        },
+        {
+            "season": "2014/2015",
+            "Takım": "SAS",
+            "n_matches": 80,
+            "adjusted_w": 55.85615144249361,
+            "true_w": 53
+        },
+        {
+            "season": "2014/2015",
+            "Takım": "LAC",
+            "n_matches": 79,
+            "adjusted_w": 59.205837803762016,
+            "true_w": 53
+        },
+        {
+            "season": "2014/2015",
+            "Takım": "GSW",
+            "n_matches": 82,
+            "adjusted_w": 61.621168198460204,
+            "true_w": 67
+        },
+        {
+            "RMSE": 9.938136022649342
+        }
+    ],
+    "2013/2014": [
+        {
+            "RMSE": 9.938136022649342
+        }
+    ]
+}
